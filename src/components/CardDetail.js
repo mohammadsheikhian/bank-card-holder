@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import './../css/bootstrap.min.css'
 
 class CardDetail extends Component {
   render() {

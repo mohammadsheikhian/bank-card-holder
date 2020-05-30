@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import logo from '../logo.svg'
-import './../css/bootstrap.min.css'
 import { Link } from 'react-router-dom'
 
 class CardView extends Component {

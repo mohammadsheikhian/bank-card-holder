@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import CardList from './CardList'
+import CardList from './../CardList'
 
 export default class Home extends Component {
   render() {

@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-export default class NotFound extends Component {
+export default class UnexpectedError extends Component {
   render() {
     return (
       <div>
-        <h1>404</h1>
+        <h1>500</h1>
         <h2>
-          Not Found<b>:(</b>
+          Unexpected Error <b>:(</b>
         </h2>
       </div>
     )
